@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.lifesum/1.lifesum.iml" filepath="$PROJECT_DIR$/1.lifesum/1.lifesum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.reddit/2.reddit.iml" filepath="$PROJECT_DIR$/2.reddit/2.reddit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.newsstand/3.newsstand.iml" filepath="$PROJECT_DIR$/3.newsstand/3.newsstand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.viber/4.viber.iml" filepath="$PROJECT_DIR$/4.viber/4.viber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.lonelyplanet/5.lonelyplanet.iml" filepath="$PROJECT_DIR$/5.lonelyplanet/5.lonelyplanet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.linkedin/6.linkedin.iml" filepath="$PROJECT_DIR$/6.linkedin/6.linkedin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.jooxmusic/7.jooxmusic.iml" filepath="$PROJECT_DIR$/7.jooxmusic/7.jooxmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.gmail/8.gmail.iml" filepath="$PROJECT_DIR$/8.gmail/8.gmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloneApps.iml" filepath="$PROJECT_DIR$/CloneApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

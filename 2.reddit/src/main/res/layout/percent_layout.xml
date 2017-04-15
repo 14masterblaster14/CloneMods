@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle_likeit"
+        android:gravity="top|center"
+        android:paddingTop="8dp"
+        android:text="70"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/circle_percent"
+        android:gravity="center"
+        android:text="PERCENT"
+        android:textColor="@android:color/white"
+        android:textSize="10sp" />
+</FrameLayout>

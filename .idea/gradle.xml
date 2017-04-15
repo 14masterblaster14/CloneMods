@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/1.lifesum" />
+            <option value="$PROJECT_DIR$/2.reddit" />
+            <option value="$PROJECT_DIR$/3.newsstand" />
+            <option value="$PROJECT_DIR$/4.viber" />
+            <option value="$PROJECT_DIR$/5.lonelyplanet" />
+            <option value="$PROJECT_DIR$/6.linkedin" />
+            <option value="$PROJECT_DIR$/7.jooxmusic" />
+            <option value="$PROJECT_DIR$/8.gmail" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

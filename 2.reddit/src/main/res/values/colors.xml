@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- orange 500-->
+    <color name="likeit">#FF9800</color>
+    <!-- blue 700 -->
+    <color name="comments">#1976D2</color>
+    <!--green 600 -->
+    <color name="reply">#43A047</color>
+    <!-- teal 600 -->
+    <color name="best">#00897B</color>
+
+</resources>
